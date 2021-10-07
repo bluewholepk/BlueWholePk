@@ -31,12 +31,12 @@ body::before {
 }
 
 a {
-  color: #ff0000;
+  /* color: #ff0000; */
   text-decoration: none;
 }
 
 a:hover {
-  color: #ff3333;
+  /* color: #ff3333; */
   text-decoration: none;
 }
 
@@ -478,4 +478,11 @@ section {
 }
 #footer .credits a {
   color: #ff3333;
+}
+#pk{
+  background: rgba(19, 19, 19, 0.4);
+
+  color: #fff;
+
+  position: relative;
 }
